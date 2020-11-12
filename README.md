@@ -1,1 +1,1 @@
-разработчик Python
+Python dev
